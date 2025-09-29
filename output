@@ -1,0 +1,53 @@
+Output of these application is:-
+========================================
+
+--- Bank Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter choice: 1
+Enter deposit amount: 10000
+ Deposited successfully: 10000.0
+
+--- Bank Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter choice: 2
+Enter withdraw amount: 6000
+ Withdrawal successful: 6000.0
+
+--- Bank Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter choice: 3
+Current Balance: 5000.0
+
+--- Bank Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter choice: 4
+
+Transaction History for Sravya:
+Account created with balance: 1000.0
+Deposited: 10000.0 | Balance: 11000.0
+Withdrew: 6000.0 | Balance: 5000.0
+
+--- Bank Menu ---
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Transaction History
+5. Exit
+Enter choice: 5
+Thank you for banking with us!
